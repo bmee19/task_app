@@ -16,6 +16,7 @@
 
 <img width="840" height="390" alt="スクリーンショット 2026-01-20 18 47 14" src="https://github.com/user-attachments/assets/7b1e608e-eec3-434c-ac79-d3b19e5b3ce3" />
 
+④について：マップはズーム・移動に対応しており、細かな棚位置も正確に登録可能
 
 ---
 
