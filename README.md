@@ -32,12 +32,3 @@
 <img width="616" height="390" alt="スクリーンショット 2026-01-20 18 48 02" src="https://github.com/user-attachments/assets/d00147ed-83bd-4818-bd7b-afb398fe2a67" />
 
 ---
-
-## 技術スタック
-- Swift / SwiftUI
-- Firebase Authentication
-- Firebase Firestore
-- Xcode
-
-## セキュリティ上の注意
-Firebase設定ファイル（GoogleService-Info.plist）は機密情報を含むため、リポジトリには含めていません。
