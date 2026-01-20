@@ -10,13 +10,13 @@
 
 <img width="840" height="390" alt="スクリーンショット 2026-01-20 18 46 57" src="https://github.com/user-attachments/assets/a75dbd20-91a4-4fd1-b720-498d6cd44108" />
 
+※マップはズーム・移動に対応しており、細かな棚位置も正確に登録可能
 ---
 
 ### タスク管理・位置表示
 
 <img width="840" height="390" alt="スクリーンショット 2026-01-20 18 47 14" src="https://github.com/user-attachments/assets/7b1e608e-eec3-434c-ac79-d3b19e5b3ce3" />
 
-④について：マップはズーム・移動に対応しており、細かな棚位置も正確に登録可能
 
 ---
 
