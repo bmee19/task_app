@@ -3,6 +3,7 @@
 
 # Xcode
 DerivedData/
+build/
 *.xcuserstate
 *.xcuserdata/
 
@@ -10,5 +11,5 @@ DerivedData/
 .build/
 Package.resolved
 
-# Firebase (絶対に公開しない)
+# Firebase (非公開)
 GoogleService-Info.plist
