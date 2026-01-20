@@ -13,3 +13,5 @@ Package.resolved
 
 # Firebase (非公開)
 GoogleService-Info.plist
+*.xcuserdata/
+*.xcuserstate
